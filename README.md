@@ -1,5 +1,7 @@
 # Keinoleino
 
+Keinoleino is an artificially intelligent poet who can write poetry in Finnish automatically. It is a computationally creative system capable of natural language generation in Finnish.
+
 This is a refactored and updated (Python 2 to Python 3) version of the Finnish Poem Generator described in:
 
 Hämäläinen, M. (2018). [Harnessing NLG to create Finnish poetry automatically](https://www.researchgate.net/publication/336445306_Harnessing_NLG_to_Create_Finnish_Poetry_Automatically). In Proceedings of the ninth international conference on computational creativity. Association for Computational Creativity (ACC).
