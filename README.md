@@ -27,6 +27,13 @@ To create a poem about a dog (koira), run:
 
 	from keinoleino import create_poem
 	print(create_poem("koira"))
+	>> koira, tuo vähä piski
+	>> miten kuuliainen on piski?
+	>> toivonko minä, kun piski jää ?
+	>> olen pikkuinen
+	>> vaikka piskit eivät päättäisi valikosta, sinä koittaisit piskiä
+	>> oletko normaali?
+	>> valikot ovat valikkoja
 
 # Business solutions
 
