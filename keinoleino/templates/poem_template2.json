@@ -1,0 +1,37 @@
+{
+  "0" : {
+    "verse" : "paraphrase",
+    "args": {},
+    "require": "noun"
+  },
+  "1" : {
+    "verse" : "question",
+    "args": {},
+    "require": "noun"
+  },
+    "2" : {
+    "verse" : "attitude",
+    "args": {},
+    "require": "noun"
+  },
+    "3" : {
+    "verse" : "person_description",
+    "args": {"person" : "SG1"},
+    "require": "noun"
+  },
+  "4" : {
+    "verse" : "counterfactual",
+    "args": {"person" : "SG2"},
+    "require": "noun"
+  },
+  "5" : {
+    "verse" : "person_description",
+    "args": {"person" : "SG2", "question" : true},
+    "require": "noun"
+  },
+    "6" : {
+    "verse" : "tautology",
+    "args": {},
+    "require": "noun"
+  }
+}

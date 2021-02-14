@@ -1,0 +1,4 @@
+*.db
+*.DS_Store
+.idea/
+keinoleino/__pycache__/

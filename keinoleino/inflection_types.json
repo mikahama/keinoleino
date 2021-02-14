@@ -1,0 +1,11 @@
+{
+  "nen":{
+    "SG": {"PAR":"stA", "NOM": "nen","GEN":"sen","ESS":"senA", "TRA": "seksi", "INE": "sessA", "ELA": "sestA", "ADE": "sellA", "ABL": "seltA", "ALL": "selle", "ABE": "settA", "ILL": "sin"},
+    "PL": {"PAR":"siA", "NOM": "set","GEN":"sien","ESS":"sinA", "TRA": "siksi", "INE": "sissA", "ELA": "sistA", "ADE": "sillA", "ABL": "siltA", "ALL": "sille", "ABE": "sittA", "ILL": "sin"}
+  },
+    "vuotias":{
+    "SG": {"PAR":"-vuotiasta", "NOM": "-vuotias","GEN":"-vuotiaan","ESS":"-vuotiaana", "TRA": "-vuotiaaksi", "INE": "-vuotiaassa", "ELA": "-vuotiaasta", "ADE": "-vuotiaalla", "ABL": "-vuotiaalta", "ALL": "-vuotiaalle", "ABE": "-vuotiaatta", "ILL": "-vuotiain"},
+    "PL": {"PAR":"-vuotiaita", "NOM": "-vuotiaat","GEN":"-vuotiaiden","ESS":"-vuotiaina", "TRA": "-vuotiaiksi", "INE": "-vuotiaissa", "ELA": "-vuotiaista", "ADE": "-vuotiailla", "ABL": "-vuotiailta", "ALL": "-vuotiaille", "ABE": "-vuotiaitta", "ILL": "-vuotiain"}
+  }
+
+}

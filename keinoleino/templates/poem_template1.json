@@ -1,0 +1,32 @@
+{
+  "0" : {
+    "verse" : "metaphor",
+    "args": {},
+    "require": "noun"
+  },
+  "1" : {
+    "verse" : "comparison",
+    "args": {},
+    "require": "noun"
+  },
+    "2" : {
+    "verse" : "question",
+    "args": {},
+    "require": "noun"
+  },
+    "3" : {
+    "verse" : "attitude",
+    "args": {"person" : "PL1"},
+    "require": "noun"
+  },
+  "4" : {
+    "verse" : "counterfactual",
+    "args": {"person" : "SG2"},
+    "require": "noun"
+  },
+  "5" : {
+    "verse" : "opinion",
+    "args": {"person" : "SG1"},
+    "require": "noun"
+  }
+}

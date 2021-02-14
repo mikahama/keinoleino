@@ -1,0 +1,27 @@
+{
+  "0" : {
+    "verse" : "person_description",
+    "args": {"person" : "SG1", "question" : false},
+    "require": "noun"
+  },
+  "1" : {
+    "verse" : "counterfactual",
+    "args": {"person" : "SG1", "question": true},
+    "require": "noun"
+  },
+    "2" : {
+    "verse" : "tautology",
+    "args": {"adjective": true},
+    "require": "noun"
+  },
+    "3" : {
+    "verse" : "person_description",
+    "args": {"person" : "SG1", "question": true},
+    "require": "noun"
+  },
+  "4" : {
+    "verse" : "metaphor",
+    "args": {},
+    "require": "noun"
+  }
+}

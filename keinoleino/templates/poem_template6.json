@@ -1,0 +1,23 @@
+{
+  "0" : {
+    "verse" : "tautology",
+    "args": {"adjective": true, "mood":"POTN"},
+    "require": "noun"
+
+  },
+    "1" : {
+    "verse" : "relative_verse",
+    "args": {},
+    "require": "noun"
+  },
+    "2" : {
+    "verse" : "paraphrase",
+    "args": {},
+    "require": "noun"
+  },
+  "3" : {
+    "verse" : "question",
+    "args": {},
+    "require": "noun"
+  }
+}
