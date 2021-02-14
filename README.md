@@ -8,7 +8,7 @@ Hämäläinen, M. (2018). [Harnessing NLG to create Finnish poetry automatically
 
 	@inproceedings{hamalainen2018harnessing,
 	  title={Harnessing NLG to create Finnish poetry automatically},
-	  author={H{\"a}m{\"a}l{\"a}inen, Mika and others},
+	  author={H{\"a}m{\"a}l{\"a}inen, Mika},
 	  booktitle={Proceedings of the ninth international conference on computational creativity},
 	  year={2018},
 	  organization={Association for Computational Creativity (ACC)}
