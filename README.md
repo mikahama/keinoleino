@@ -19,7 +19,7 @@ This code used to be very much integrated with the [Poem Machine](https://www.re
 ## Installation
 
 	python3 -m pip install -r requirements.txt
-	pythom3 -m keinoleino.download
+	python3 -m keinoleino.download
 
 ## Usage
 
