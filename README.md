@@ -34,9 +34,3 @@ To create a poem about a dog (koira), run:
 	>> vaikka piskit eivät päättäisi valikosta, sinä koittaisit piskiä
 	>> oletko normaali?
 	>> valikot ovat valikkoja
-
-# Business solutions
-
-<img src="https://rootroo.com/cropped-logo-01-png/" alt="Rootroo logo" width="128px" height="128px">
-
-My company, [Rootroo, offers consulting related to Finnish NLG solutions](https://rootroo.com/). We have a strong academic background in the state-of-the-art AI solutions for every NLP need. Just contact us, we are not a can't-garoo.
